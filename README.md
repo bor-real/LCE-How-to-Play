@@ -1,3 +1,27 @@
 # LCE-How-to-Play
 
 A markdown version of the How to Play menu in the Legacy Console Edition of Minecraft.
+
+List of icons:
+
+- A_BUTTON
+- B_BUTTON
+- X_BUTTON
+- Y_BUTTON
+- LEFT_BUMPER
+- RIGHT_BUMPER
+- LEFT_TRIGGER
+- RIGHT_TRIGGER
+- LEFT_STICK_BUTTON
+- RIGHT_STICK_BUTTON
+- DPAD_UP
+- DPAD_DOWN
+- DPAD_LEFT
+- DPAD_RIGHT
+- START_BUTTON
+- BACK_BUTTON
+- GUIDE_BUTTON
+- LEFT_STICK
+- RIGHT_STICK
+
+- HUNGER

@@ -1,4 +1,4 @@
-### HOW TO PLAY : MULTIPLAYER
+**HOW TO PLAY : MULTIPLAYER
 
 Minecraft on the Xbox 360 console is a multiplayer game by default. If you are playing in a High Definition mode, you can have local players join your game by attaching controllers and pressing START_BUTTON at any point during the game.
 

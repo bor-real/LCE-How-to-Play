@@ -1,4 +1,4 @@
-### HOW TO PLAY : HUD
+**HOW TO PLAY : HUD**
 
 The HUD shows information about your status; your health, your remaining oxygen, your hunger level, and you armor (if you are wearing any).
 

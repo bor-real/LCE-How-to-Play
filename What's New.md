@@ -1,4 +1,4 @@
-### Changes and Additions
+**Changes and Additions**
 
 - Added the Update Aquatic! The oceans of Minecraft are now teeming with new life! 
 - Added Shipwrecks, Underwater Ruins, Coral Reefs, Icebergs, Underwater Caves/Ravines, and buried Treasure to world generation. 

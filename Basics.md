@@ -1,10 +1,10 @@
-#### HOW TO PLAY : BASICS
+**HOW TO PLAY : BASICS**
 
 Minecraft is a game about placing blocks to build anything you can imagine. At night monsters come out, so make sure to build a shelter before that happens.
 
-Use RIGHT_STICK_BUTTON to look around.
+Use RIGHT_STICK to look around.
 
-Use LEFT_STICK_BUTTON to move around.
+Use LEFT_STICK to move around.
 
 Press A_BUTTON to jump.
 
