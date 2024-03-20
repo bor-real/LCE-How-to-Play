@@ -1,4 +1,4 @@
-**HOW TO PLAY : BATTLE MINI GAME
+**HOW TO PLAY : BATTLE MINI GAME**
 
 Battle is a frantice last-man-standing fight to the death, where players will have to scavenge the arenas for chest containing weapons, armor, and food in order to survive and to have an advantage over other players.
 The last player alive, or the player with the most kills when the level time ends, is the winner!
